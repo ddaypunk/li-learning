@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "essential-javascript"
+		},
+		{
+			"path": "essential-react"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "essential-javascript"
+	}
+}
